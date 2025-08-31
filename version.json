@@ -1,31 +1,15 @@
- {
-  "latest_version": "1.40",
+{
+  "latest_version": "1.00",
   "direct_update": true,
-  "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.40/firmware.bin",
-  "supported_versions": ["1.00", "1.10", "1.20", "1.30", "1.40"],
+  "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.00/firmware.bin",
+  "supported_versions": ["1.00"],
   "update_info": {
     "1.00": {
-      "can_update_to": "1.40",
-      "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.40/firmware.bin"
-    },
-    "1.10": {
-      "can_update_to": "1.40", 
-      "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.40/firmware.bin"
-    },
-    "1.20": {
-      "can_update_to": "1.40",
-      "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.40/firmware.bin"
-    }
-    "1.30": {
-      "can_update_to": "1.40",
-      "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.40/firmware.bin"
+      "can_update_to": "1.00",
+      "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.00/firmware.bin"
     }
   },
   "changelog": {
-    "1.40": "update overall",
-    "1.30": "Latest stable version with all features",
-    "1.20": "Added OTA update system",
-    "1.10": "Added calibration system",
     "1.00": "Initial release"
   }
 }
