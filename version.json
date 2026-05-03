@@ -1,15 +1,16 @@
 {
-  "latest_version": "1.00",
+  "latest_version": "1.10",
   "direct_update": true,
-  "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.00/firmware.bin",
-  "supported_versions": ["1.00"],
+  "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.10/firmware.bin",
+  "supported_versions": ["1.00", "1.10"],
   "update_info": {
     "1.00": {
-      "can_update_to": "1.00",
-      "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.00/firmware.bin"
+      "can_update_to": "1.10",
+      "firmware_url": "https://github.com/winner69/ESPTEST/releases/download/v1.10/firmware.bin"
     }
   },
   "changelog": {
+    "1.10": "Fixed WiFi connection issue",
     "1.00": "Initial release"
   }
 }
